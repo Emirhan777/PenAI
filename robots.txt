@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emirhan777.github.io/PenAI/sitemap.xml
